@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Testing\\iOS Picker Bug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|c:\\dev\\testing\\ios picker bug\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|c:\\dev\\testing\\ios picker bug\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|c:\\dev\\testing\\ios picker bug\\ios picker bug.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|solutionrelative:ios picker bug.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|c:\\dev\\testing\\ios picker bug\\ios picker bug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0F08ED4-16F9-4060-8419-E13562463B4D}|iOS Picker Bug.csproj|solutionrelative:ios picker bug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iOS Picker Bug.csproj",
+              "DocumentMoniker": "C:\\Dev\\Testing\\iOS Picker Bug\\iOS Picker Bug.csproj",
+              "RelativeDocumentMoniker": "iOS Picker Bug.csproj",
+              "ToolTip": "C:\\Dev\\Testing\\iOS Picker Bug\\iOS Picker Bug.csproj",
+              "RelativeToolTip": "iOS Picker Bug.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-07T18:05:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iOS Picker Bug",
+              "DocumentMoniker": "C:\\Dev\\Testing\\iOS Picker Bug\\iOS Picker Bug.csproj",
+              "RelativeDocumentMoniker": "iOS Picker Bug.csproj",
+              "ToolTip": "C:\\Dev\\Testing\\iOS Picker Bug\\iOS Picker Bug.csproj",
+              "RelativeToolTip": "iOS Picker Bug.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-07T18:04:59.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Dev\\Testing\\iOS Picker Bug\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Dev\\Testing\\iOS Picker Bug\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T18:03:57.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Dev\\Testing\\iOS Picker Bug\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Dev\\Testing\\iOS Picker Bug\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-07T18:03:54.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

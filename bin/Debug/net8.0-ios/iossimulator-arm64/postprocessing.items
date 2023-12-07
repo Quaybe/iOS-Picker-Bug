@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="iOS Picker Bug.app/iOS Picker Bug">
+      <BCSymbolMapName>iOS Picker Bug.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>iOS Picker Bug.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\kirquebea\Library\Caches\Xamarin\mtbs\builds\iOSPickerBug\b98768ac5f212f08011630926ace6a2073fa21d879ddb65fc8f2cc74e1919b0a\obj\Debug\net8.0-ios\iossimulator-arm64\mtouch-symbols.list</SymbolFile>
+      <DSymName>iOS Picker Bug.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Dev\Testing\iOS Picker Bug</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Dev\Testing\iOS Picker Bug\iOS Picker Bug.csproj;x64
